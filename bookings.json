@@ -1,0 +1,92 @@
+[
+  {
+    "id": 4,
+    "vehicle": "Toyota Yaris - 7,500 PKR/day",
+    "pickupDate": "2025-07-01",
+    "returnDate": "2025-07-22",
+    "location": "Main Office (Batkhela, Malakand, KPK)",
+    "name": "Amir Khan",
+    "contact": "0312-7364857",
+    "status": "Accepted",
+    "createdAt": "2025-07-01T18:21:52.120Z"
+  },
+  {
+    "id": 5,
+    "vehicle": "NCP Prado - 15,000 PKR/day",
+    "pickupDate": "0001-11-11",
+    "returnDate": "0001-11-11",
+    "location": "Main Office (Batkhela, Malakand, KPK)",
+    "name": "husain",
+    "contact": "0345678976",
+    "status": "Completed",
+    "createdAt": "2025-07-02T06:27:59.361Z"
+  },
+  {
+    "id": 7,
+    "vehicle": "Prado - 20,000 PKR/day",
+    "pickupDate": "0001-11-11",
+    "returnDate": "0011-11-11",
+    "location": "Main Office (Batkhela, Malakand, KPK)",
+    "name": "tamer",
+    "contact": "03669",
+    "status": "Cancelled",
+    "createdAt": "2025-07-02T08:08:17.543Z"
+  },
+  {
+    "id": 8,
+    "vehicle": "Prius - 6,000 PKR/day",
+    "pickupDate": "0555-05-05",
+    "returnDate": "0055-05-05",
+    "location": "Main Office (Batkhela, Malakand, KPK)",
+    "name": "ilyas",
+    "contact": "0326444",
+    "status": "Completed",
+    "createdAt": "2025-07-02T15:59:47.012Z"
+  },
+  {
+    "id": 9,
+    "vehicle": "Honda Civic- 8,000 PKR/day",
+    "pickupDate": "0001-11-14",
+    "returnDate": "0001-12-14",
+    "location": "Main Office (Batkhela, Malakand, KPK)",
+    "name": "tamer",
+    "contact": "55",
+    "status": "Pending",
+    "createdAt": "2025-07-03T11:19:15.785Z"
+  },
+  {
+    "id": 10,
+    "vehicle": "NCP Prado - 15,000 PKR/day",
+    "pickupDate": "275760-05-04",
+    "returnDate": "6848-02-05",
+    "location": "Main Office (Batkhela, Malakand, KPK)",
+    "name": "tameer khan",
+    "contact": "03478226649",
+    "status": "Pending",
+    "createdAt": "2025-07-26T09:34:48.268Z"
+  },
+  {
+    "id": 11,
+    "vehicle": "Sports_1996 - 5,000 PKR/day",
+    "pickupDate": "0323-01-31",
+    "returnDate": "0233-03-23",
+    "location": "Main Office (Batkhela, Malakand, KPK)",
+    "name": "anas",
+    "email": "tameerkhan0009@gmail.com",
+    "contact": "03120533402",
+    "status": "Accepted",
+    "createdAt": "2025-07-27T09:25:14.533Z"
+  },
+  {
+    "id": 12,
+    "vehicle": "Prado - 20,000 PKR/day",
+    "pickupDate": "155151-12-12",
+    "returnDate": "0312-12-15",
+    "location": "Main Office (Batkhela, Malakand, KPK)",
+    "name": "waqas",
+    "email": "tameerkhan0009@gmail.com",
+    "contact": "03120533402",
+    "status": "Accepted",
+    "createdAt": "2025-07-27T09:50:57.853Z"
+  }
+]
